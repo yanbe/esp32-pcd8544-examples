@@ -1,7 +1,7 @@
 # ESP32-PCD8544 example projects
 
-This repository hold example projects of [yanbe/esp32-pcd8544](https://github.com/yanbe/esp32-pcd8544),
-Nokia 5100 LCD driver for ESP-IDF https://github.com/espressif/esp-idf.
+This repository hold example projects of [ESP32-PCD8544](https://github.com/yanbe/esp32-pcd8544),
+Nokia 5100 LCD driver for [Espressif IoT Development Framework (ESP-IDF)](https://github.com/espressif/esp-idf).
 
 ## Usage
 
