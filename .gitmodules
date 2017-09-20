@@ -1,0 +1,3 @@
+[submodule "components/pcd8544"]
+	path = components/pcd8544
+	url = https://github.com/yanbe/esp32-pcd8544.git
