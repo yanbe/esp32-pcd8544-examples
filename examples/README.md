@@ -17,3 +17,7 @@ Beyond `hello_pcd8544`, demonstrates how to print texts with positioning and for
 #### draw\_bitmaps`
 
 Demonstrates how to draw arbitrary bitmap data with transparent support.
+
+#### control\_modes`
+
+Demonstrates miscellaneous mode controls of PCD8544.
