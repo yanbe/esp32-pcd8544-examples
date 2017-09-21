@@ -9,3 +9,7 @@ A minimum example to write text to Nokia 5110 LCD module.
 #### draw\_lines`
 
 Demonstrates line drawing API and handling ESP32-PCD8544 internal frame buffer.
+
+#### print\_text`
+
+Beyond `hello_pcd8544`, demonstrates how to print texts with positioning and formatting API.
