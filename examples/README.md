@@ -13,3 +13,7 @@ Demonstrates line drawing API and handling ESP32-PCD8544 internal frame buffer.
 #### print\_text`
 
 Beyond `hello_pcd8544`, demonstrates how to print texts with positioning and formatting API.
+
+#### draw\_bitmaps`
+
+Demonstrates how to draw arbitrary bitmap data with transparent support.
