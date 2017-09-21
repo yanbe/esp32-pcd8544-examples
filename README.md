@@ -3,6 +3,8 @@
 This repository hold example projects of [ESP32-PCD8544](https://github.com/yanbe/esp32-pcd8544),
 Nokia 5100 LCD driver for [Espressif IoT Development Framework (ESP-IDF)](https://github.com/espressif/esp-idf).
 
+Main contents of repository are listed under [examples/ directory](https://github.com/yanbe/esp32-pcd8544-examples/tree/master/examples).
+
 ## Usage
 
 ```sh
