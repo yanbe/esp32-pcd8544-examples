@@ -21,3 +21,7 @@ Demonstrates how to draw arbitrary bitmap data with transparent support.
 #### control\_modes`
 
 Demonstrates miscellaneous mode controls of PCD8544.
+
+#### plot\_touch\_sensor`
+
+Plots line graph of real-time touch sensor value.
