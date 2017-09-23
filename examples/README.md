@@ -28,4 +28,4 @@ Plots line graph of real-time touch sensor value.
 
 #### plot\_microphone\_input`
 
-Plots extenral analog microphone input to the LCD.
+Plots extenral analog microphone input to the LCD. Also demonstrates DMA transfer mode.

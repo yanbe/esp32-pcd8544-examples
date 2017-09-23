@@ -52,7 +52,6 @@ void task_plot_graph(void* arg) {
 }
 
 void app_main(void) {
-    queue = xQueueCreate(1, 2);
+    queue = xQueueCreate(100, 2);
     xTaskCreate(&task_plot_graph, "plot_graph_task", 4098, NULL, 5, NULL);
-    xTaskCreate(&task_read_sensor, "read_sensor_task", 4098, NULL, 5, NULL);
-}
+    xTaskCreate(&task_read_sensor, "read_sensor_task", 4098, NULL, 5, NULL); }
