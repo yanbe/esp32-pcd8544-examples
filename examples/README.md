@@ -25,3 +25,7 @@ Demonstrates miscellaneous mode controls of PCD8544.
 #### plot\_touch\_sensor`
 
 Plots line graph of real-time touch sensor value.
+
+#### plot\_microphone\_input`
+
+Plots extenral analog microphone input to the LCD.
